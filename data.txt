@@ -3,3 +3,10 @@ Age: 25
 Favourite Color: Black
 
 also i don't know what to write in here
+what if i just trow some code in here?
+
+let myFirstPush {
+    name: 1,
+    local: 2,
+    what: 3
+}
